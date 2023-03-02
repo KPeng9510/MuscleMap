@@ -11,7 +11,7 @@ Acquisition of Muscle-UCF90 and Muscle-HMDB41: These two datasets also need the 
 
 ## Installation
 
-Please find installation instructions in [INSTALL.md](INSTALL.md)
+Please find installation instructions in [INSTALL.md](INSTALL.md). The code is built based one PySlowFast (https://github.com/facebookresearch/SlowFast), we appreciate the great work from PySlowFast Team!
 
 
 
