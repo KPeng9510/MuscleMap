@@ -19,7 +19,7 @@ Please find installation instructions in [INSTALL.md](INSTALL.md). The code is b
 
 ## Our model
 
-###Highlights of our model:
+### Highlights of our model:
 
 We make used of MCTs to distill the knowledge from the RGB difference modality to the RGB modality to enhance the generalization ability of the end-to-end model on the activated muscle group estimation task. During inference time we do not use another modality to preserve the efficiency of our proposed approach. We proposed a Sender-Receiver schema for the knowledge distillation based on MCTs. We further proposed the MCTF module to fuse the original MCTs and the receiver MCTs of main RGB model to achieve a better generalization ability.
 
