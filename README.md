@@ -1,5 +1,7 @@
 
 ## MuscleMap: Towards Video-based Activated Muscle Group Estimation
+
+### We would like to address something novel, helpful and yet overlooked by the community
 We tackle the new task of video-based Activated Muscle Group Estimation (AMGE) aiming at identifying currently activated muscular regions of humans performing a specific activity. Video-based AMGE is an important yet overlooked problem. To this intent, we provide the MuscleMap136 featuring >15K video clips with 136 different activities and 20 labeled muscle groups. This dataset opens the vistas to multiple video-based applications in sports and rehabilitation medicine. We further complement the main MuscleMap136 dataset, which specifically targets physical exercise, with Muscle-UCF90 and Muscle-HMDB41, which are new variants of the well-known activity recognition benchmarks extended with AMGE annotations. 
 <div align="center">
   <img src="https://github.com/KPeng9510/MuscleMap/blob/master/demo/TS.png" width="500px"/>
