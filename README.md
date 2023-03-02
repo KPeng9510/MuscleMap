@@ -11,7 +11,9 @@ We tackle the new task of video-based Activated Muscle Group Estimation (AMGE) a
 Acquisition of MuscleMap136: The user aggreement document is preparing now. Once you are interested in our dataset, please send an email to kunyu.peng@kit.edu, the processed dataset will be forwarded to you after you aggree the user agreement and sign it. Once the user agreement document is ready, the corresponding information will be released as soon as possible, thank you for your understanding.
 
 Acquisition of Muscle-UCF90 and Muscle-HMDB41: These two datasets also need the user agreement. Please also forwad the official aggreement for using both HMDB and UCF101 to the above mentioned email.
+### Highlights of our dataset:
 
+We open the door for video-based activated muscle group estimation task and contributes a specific designed AMGE datsest named as MuscleMap136 together with UCF-90 and HMDB41 which could deliver a good benchmark for this new task. AMGE is an important but yet overlooked task both in computer vision field and the health care field. We hope our contribution could be interesting.
 
 ## Installation
 
@@ -21,7 +23,7 @@ Please find installation instructions in [INSTALL.md](INSTALL.md). The code is b
 
 ### Highlights of our model:
 
-We make used of MCTs to distill the knowledge from the RGB difference modality to the RGB modality to enhance the generalization ability of the end-to-end model on the activated muscle group estimation task. During inference time we do not use another modality to preserve the efficiency of our proposed approach. We proposed a Sender-Receiver schema for the knowledge distillation based on MCTs. We further proposed the MCTF module to fuse the original MCTs and the receiver MCTs of main RGB model to achieve a better generalization ability.
+We for the first time make used of MCTs to distill the knowledge from the RGB difference modality to the RGB modality to enhance the generalization ability of the end-to-end model on the activated muscle group estimation task. During inference time we do not use another modality to preserve the efficiency of our proposed approach. We proposed a Sender-Receiver schema for the knowledge distillation based on MCTs. We further proposed the MCTF module to fuse the original MCTs and the receiver MCTs of main RGB model to achieve a better generalization ability.
 
 <div align="center">
   <img src="https://github.com/KPeng9510/MuscleMap/blob/master/demo/main_Model.png" width="900px"/>
