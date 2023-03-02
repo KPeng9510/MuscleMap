@@ -4,6 +4,8 @@ We tackle the new task of video-based Activated Muscle Group Estimation (AMGE) a
 <div align="center">
   <img src="https://github.com/KPeng9510/MuscleMap/blob/master/demo/TS.png" width="600px"/>
 </div>
+
+
 ## Acquisition of the Dataset
 
 Acquisition of MuscleMap136: The user aggreement document is preparing now. Once you are interested in our dataset, please send an email to kunyu.peng@kit.edu, the processed dataset will be forwarded to you after you aggree the user agreement and sign it. Once the user agreement document is ready, the corresponding information will be released as soon as possible, thank you for your understanding.
