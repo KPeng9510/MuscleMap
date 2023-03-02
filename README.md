@@ -23,5 +23,8 @@ Please find installation instructions in [INSTALL.md](INSTALL.md). The code is b
 </div>
 
 
+## Evaluation Protocol
+
+We used test_unseen and val_unseen to test the model on actions excluded from the train set for all three datasets. Test_unseen and val_unseen contain actions with unseen muscle activation combinations to test generalization. Mean averaged precision (mAP) is used as the evaluation metric.
 
 
