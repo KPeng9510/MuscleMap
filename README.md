@@ -9,7 +9,9 @@ We tackle the new task of video-based Activated Muscle Group Estimation (AMGE) a
 
 ### We want to protect people from injury and show the best wishes to AI
 Our model can be used to predict abnormal activity execution when a person is doing a weird action, which can be leveraged to detect abnormal exercise behavior and dangerous muscle usage for health care and sports.
-
+<div align="center">
+  <img src="https://github.com/KPeng9510/MuscleMap/blob/master/demo/UseCase.png" width="500px"/>
+</div>
 ## Acquisition of the Dataset
 
 Acquisition of MuscleMap136: The user aggreement document is preparing now. Once you are interested in our dataset, please send an email to kunyu.peng@kit.edu, the processed dataset will be forwarded to you after you aggree the user agreement and sign it. Once the user agreement document is ready, the corresponding information will be released as soon as possible, thank you for your understanding.
