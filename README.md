@@ -17,5 +17,11 @@ Acquisition of Muscle-UCF90 and Muscle-HMDB41: These two datasets also need the 
 
 Please find installation instructions in [INSTALL.md](INSTALL.md). The code is built based one PySlowFast (https://github.com/facebookresearch/SlowFast), we appreciate the great work from PySlowFast Team!
 
+## Our model
+<div align="center">
+  <img src="https://github.com/KPeng9510/MuscleMap/blob/master/demo/main_Model.png" width="600px"/>
+</div>
+
+
 
 
