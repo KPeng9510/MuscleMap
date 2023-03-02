@@ -3,7 +3,7 @@ We tackle the new task of video-based Activated Muscle Group Estimation (AMGE) a
 
 ## Acquisition of the Dataset
 
-Acquisition of MuscleMap136: The user aggreement document in under preparing now. Once you are interested in our dataset, please send an email to kunyu.peng@kit.edu, the processed dataset will be forwarded to you after you aggree the EULA and sign it. Once the user agreement document is ready, the corresponding information will be released as soon as possible, thank you for your understanding.
+Acquisition of MuscleMap136: The user aggreement document in under preparing now. Once you are interested in our dataset, please send an email to kunyu.peng@kit.edu, the processed dataset will be forwarded to you after you aggree the user agreement and sign it. Once the user agreement document is ready, the corresponding information will be released as soon as possible, thank you for your understanding.
 
 Acquisition of Muscle-UCF90 and Muscle-HMDB41: These two datasets also need the user agreement. Please also forwad the aggreement for using both HMDB and UCF101 to my email.
 
