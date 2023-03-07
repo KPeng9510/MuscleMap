@@ -41,4 +41,14 @@ We for the first time make used of MCTs to distill the knowledge from the RGB di
 
 We used test_unseen and val_unseen to test the model on actions excluded from the train set for all three datasets. Test_unseen and val_unseen contain actions with unseen muscle activation combinations to test generalization. Mean averaged precision (mAP) is used as the evaluation metric. The sample list for train, val and test will be sent to you together with the dataset.
 
+## Citing MuscleMap
+If you find MuscleMap useful in your research, please use the following BibTeX entry for citation.
+```BibTeX
+@article{peng2023musclemap,
+  title={MuscleMap: Towards Video-based Activated Muscle Group Estimation},
+  author={Peng, Kunyu and Schneider, David and Roitberg, Alina and Yang, Kailun and Zhang, Jiaming and Sarfraz, M Saquib and Stiefelhagen, Rainer},
+  journal={arXiv preprint arXiv:2303.00952},
+  year={2023}
+}
 
+```
