@@ -24,7 +24,7 @@ We open the door for video-based activated muscle group estimation task and cont
 
 ## Installation
 
-Please find installation instructions in [INSTALL.md](INSTALL.md). The code is built based one PySlowFast (https://github.com/facebookresearch/SlowFast), we appreciate the great work from PySlowFast Team!
+Please find installation instructions in [INSTALL.md](INSTALL.md). The code is built based on PySlowFast (https://github.com/facebookresearch/SlowFast), we appreciate the great work from PySlowFast Team!
 
 ## Our model
 
